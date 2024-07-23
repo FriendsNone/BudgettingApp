@@ -1,4 +1,4 @@
-package com.middlename.budgetingapp
+package io.catto.financely
 
 import org.junit.Test
 
